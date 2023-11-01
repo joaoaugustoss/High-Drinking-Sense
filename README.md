@@ -42,7 +42,7 @@ Data collection
 
 Data Analysis
 ========================
-The jupyter notebooks used to perform all data analysis with our collected data and obtain all regions classification are available at [analysis](analisys). 
+The jupyter notebooks used to perform all data analysis with our collected data and obtain all regions classification are available at [analysis](analysis). 
 
 Alcohol Consumption
 ========================
