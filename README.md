@@ -42,10 +42,10 @@ Data collection
 
 Data Analysis
 ========================
-The jupyter notebooks used to perform all data analysis with our collected data and obtain all regions classification are available at ```analysis```. 
+The jupyter notebooks used to perform all data analysis with our collected data and obtain all regions classification are available at [analysis](analisys). 
 
 Alcohol Consumption
 ========================
-The jupyter notebook used to perform all analysis envolving alcohol consumption is available at ```alcohol```.
+The jupyter notebook used to perform all analysis envolving alcohol consumption is available at [alcohol](alcohol).
 
 All the data used for the alcohol consumption analysis were extracted from [World Health Organization (WHO)](https://www.who.int/data/gho/data/themes/topics/sdg-target-3_5-substance-abuse), coresponding to the Sustainable Development Goal 3.5.2. 
